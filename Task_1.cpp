@@ -240,7 +240,7 @@ void iceland_flag(){
 }
 void display() {
     
-    set_bg_color(66, 73,73);    // Set background color to black and opaque
+    set_bg_color(0,  25,71);    // Set background color to black and opaque
     glClear(GL_COLOR_BUFFER_BIT);
     // Clear the color buffer (background)
     
